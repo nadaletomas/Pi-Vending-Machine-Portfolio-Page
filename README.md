@@ -58,16 +58,30 @@ For additional connections, use a 20-pin connector.
 
 # How to use Raspberry Pi in real world. Step by Step.
 
-First of all you need to have the Raspberry Pi. Once you have your Raspbery Pi you need to install an application call ....... . When you have the application you can start doing, in this case, the vending machine in the protoboard![F711F5ED-C853-4B4F-A4D9-020B4BF184C6](https://github.com/user-attachments/assets/1a51863a-650c-421b-98f6-96d4ce8cac63)
+First of all you need to have the Raspberry Pi. Once you have your Raspbery Pi you need to install an application call RealVNC Viewer. When you have the application you can start doing, in this case, the vending machine in the protoboard![F711F5ED-C853-4B4F-A4D9-020B4BF184C6](https://github.com/user-attachments/assets/1a51863a-650c-421b-98f6-96d4ce8cac63)
 
 
-It has to look like this:
-![IMG_8715](https://github.com/user-attachments/assets/c1da8391-6deb-41d7-9ae0-ffc1c33e80f6)
+
+In the initial set up with the **coin in** it has to look like this:
+![D3029A96-2D9D-4711-8037-F2BF65563638](https://github.com/user-attachments/assets/2a922b53-677a-4a8f-9fda-a356cadb90b7)
+
+
 
 That was the first step, the second step is to create the code in the application you download before. ![F126A763-7BEF-4900-8090-316101964811](https://github.com/user-attachments/assets/d2e9b11b-ca23-4a57-8898-fb2c7f61afe9)
 
-The code has to look like this:.....
+The code has to look like this:
+![code vending machine](https://github.com/user-attachments/assets/4c1063d1-e9b1-4192-a73a-23e5b41d2b8f)
+
+When the **coin is** in it will look like this:
+![coin in](https://github.com/user-attachments/assets/ac88acc4-c17b-4ff2-a507-69b6155074f7)
+
+
+When it is **vending** it has to look like this:
+![vending](https://github.com/user-attachments/assets/16370360-6895-43c0-b058-573e2110c20d)
+
 
 # References
 
 What is a Raspberry Pi? Raspberry Pi. (2025, March 18).[ [https://raspberrypi.cl/que-es-raspberry/](url)](url)
+
+Timmons-Brown, M. (2019a). Learn robotics with Raspberry Pi: Build and code your own moving, sensing, thinking Robots. No Starch Press, Inc. 
